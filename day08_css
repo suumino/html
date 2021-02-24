@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>웹 프로그래밍 기초</title>
+    <!--displat 속성으로 HTML 태그의 성격을 변경할 수 있습니다. -->
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!-- 인라인>아이디>클라스>태그>-->
+    <h3 style = 'color : pink;'id = 'color' class = 'color'>Welcome to CSS</h3>
+
+  </body>
+</html>
+
+
+
+
+<!-- 인라인>아이디>클라스>태그>
+.color{
+  color : red;
+}
+#color{
+  color:blue;
+}
+h3 {
+  color : green;
+}
